@@ -14,6 +14,10 @@ nav-menu: true
 |![Luigi Mastrodomenico](/assets/images/team/Luigi-Mastrodomenico.jpg){: width="150" }| ![Daan Boltje](/assets/images/team/Daan-Boltje.jpg){: width="150" }| ![Dalal Benali](/assets/images/team/Dalal-Benali.jpg){: width="150" }| ![Julius van Valkengoed](/assets/images/team/Julius-van-Valkengoed.jpg){: width="150" }|
 |:-:|:-:|:-:|:-:|
 |**Luigi Mastrodomenico**<br>Microscope Designer| **Daan Boltje**<br>System Architect | **Dalal Benali**<br>Nanofab engineer | **Julius van Valkengoed**<br>Intern|
+|![Francesca Pagano](/assets/images/team/Francesca-Pagano.jpg){: width="150" }| | | |
+|:-:|:-:|:-:|:-:|
+|**Francesca Pagano**<br>Data analysis intern|  |  | |
+
 
 We are motivated to solve hard problems that do not have solutions yet as a team. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
