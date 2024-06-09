@@ -19,7 +19,7 @@ nav-menu: true
 | **Francesca Pagano**<br>Data analysis intern | **Jelil Belheine**<br>Microscopy intern | **Haotian Wang**<br>Data analysis intern | **Ishan Pahwa**<br>Data scientist |
 
 
-We are motivated to solve hard problems that do not have solutions yet as a team. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are committed to diversity and work to build an inclusive environment where everyone can thrive.
+Our team is motivated to solve hard problems that do not have solutions yet. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are a team of eight nationalities and are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
 # Our mission and our technology
 
