@@ -15,7 +15,7 @@ We currently have two concrete openings:
 * an intern with to support the mechanical design of our AFM with experience in mechanical engineering, precision engineering (university or HBO).
 * an intern with a background in electrical engineering to develp cryogenic electronics for our AFM (university or HBO)
 
-Additionally, we are happy to host interns and BSc/MSc stundents on a number of technical and non-technical topics. Just get in touch.
+Additionally, we are happy to host interns and BSc/MSc students on a number of technical and non-technical topics. Just get in touch.
 
 ## Working at QuantaMAP
 
