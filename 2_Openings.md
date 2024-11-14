@@ -11,11 +11,17 @@ nav-menu: true
 
 We currently have the following concrete openings:
 
-* an [Application Scientist (m/w/x)](opening_application_scientist) as key technical team member with experience in cryogenic AFM and/or nanofabrication of quantum chips. 
-* an intern to support the mechanical design of our AFM with experience in mechanical engineering, precision engineering or similar (university or HBO).
-* an intern with a background in electrical engineering to develp cryogenic electronics for our AFM (university or HBO)
+* an [Application Scientist (m/w/x)](/openings/Job%20description_Application-Scientist.pdf) as key technical team member with experience in cryogenic AFM and/or nanofabrication of quantum chips.
+* a [(Cryo) Electrical Engineer](/openings/Job%20description_Electrical-engineer.pdf) leading the technical development of our next generation SQUID and AFM control electronics. 
 
-Additionally, we are happy to host interns and BSc/MSc students on a number of technical and non-technical topics. Just get in touch.
+## Internships
+* two interns to support the mechanical design of our AFM holder or [vibration isolation](/openings/Internship_Mechanical-engineering.pdf) with experienced in mechanical engineering, precision engineering or similar (university or HBO),
+* an intern with a background in electrical engineering to develp [cryogenic electronics](/openings/Internship_Electrical-engineering.pdf) for our AFM (university or HBO),
+* an intern to help develop our [system control software](/openings/Internship_Software-engineering.pdf),
+* an intern developing [data analysis algorithms](/openings/Internship_Data-analysis.pdf) for the SQUID-AFM data, 
+* a [business assistant](/openings/Internship_Business-assistant.pdf) intern as the right hand of our CEO, helping to organize the business. 
+
+Additionally, we are happy to host interns and BSc/MSc students on a number of other technical and non-technical topics. Just get in touch.
 
 ## Working at QuantaMAP
 
