@@ -9,9 +9,8 @@ nav-menu: true
 
 # Open positions
 
-We currently have the following concrete openings:
+We currently have the following concrete opening:
 
-* an [Application Scientist (m/w/x)](/openings/Job%20description_Application-Scientist.pdf){:target="_blank"} as key technical team member with experience in cryogenic AFM and/or nanofabrication of quantum chips.
 * a [(Cryo) Electrical Engineer](/openings/Job%20description_Electrical-engineer.pdf){:target="_blank"} leading the technical development of our next generation SQUID and AFM control electronics. 
 
 ## Internships
