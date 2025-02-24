@@ -11,8 +11,6 @@ nav-menu: true
 
 We currently have the following concrete opening:
 
-* a [(Cryo) Electrical Engineer](/openings/Job%20description_Electrical-engineer.pdf){:target="_blank"} leading the technical development of our next generation SQUID and AFM control electronics. 
-
 ## Internships
 * two interns to support the mechanical design of our AFM holder or [vibration isolation](/openings/Internship_Mechanical-engineering.pdf){:target="_blank"} with experienced in mechanical engineering, precision engineering or similar (university or HBO),
 * an intern with a background in electrical engineering to develp [cryogenic electronics](/openings/Internship_Electrical-engineering.pdf){:target="_blank"} for our AFM (university or HBO),
