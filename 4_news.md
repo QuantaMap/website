@@ -9,6 +9,9 @@ nav-menu: true
 # Highlights of our QuantaMap journey
 For regular updates, follow our [LinkedIn page](https://www.linkedin.com/company/quantamap/)
 
+## News items
+* [data analysis algorithms](/posts/2023-12-06-funding-announcement)
+
 <ul>
   {% for post in site.posts %}
     <li>
