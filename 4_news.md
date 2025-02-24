@@ -11,6 +11,7 @@ For regular updates, follow our [LinkedIn page](https://www.linkedin.com/company
 
 ## News items
 * [data analysis algorithms](/posts/2023-12-06-funding-announcement)
+* [Link to QUACIMI]({{ site.baseurl }}{% link 2025-06-01-MKB-QUACIMI.md %})
 
 <ul>
   {% for post in site.posts %}
