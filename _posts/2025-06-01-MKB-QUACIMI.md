@@ -5,5 +5,15 @@ description: The QuantaMap microscope receives an upgrade dedicated to spin qubi
 image: assets/images/news/2025-06-01_QUACIMI-header.jpg
 ---
 
+[QuantaMap](https://www.quantamap.eu) and  [Orange Quantum Systems](https://orangeqs.com) join forces for the DeteQT project to develop a common platform for quantum chip diagnostics.  
 
-[QuantaMap](https://www.quantamap.eu) and
+Last week, we kicked-off DeteQT, our [MIT R&D collaboration project](https://www.zuid-holland.nl/online-regelen/subsidies/subsidies/mit-samenwerkingsprojecten) with a first, in-depth, technical discussion at Orange Quantum Systems’ HQ. DeteQT aims to solve the critical need for advanced diagnostic and metrology tools for quantum chip production, the lack of which is increasingly becoming a bottleneck for chip development. Traditional metrology tools, which are crucial for semiconductor chip development, are ill-suited for quantum chips, which operate at cryogenic temperatures and are very sensitive to external disturbances.
+
+QuantaMap and Orange Quantum Systems both offer systems for quantum chip diagnostics that overcome these limitations and are explicitly tailored towards the quantum industry.  
+Orange Quantum Systems, on the other hand, is an expert in the electrical characterization of quantum chips. They can quickly and accurately determine all key performance indicators of quantum chips once the chips are fully fabricated but cannot locate the defect.  
+
+And now, if the performance of a chip is not ideal Quntamap and Orange together can identify where in the device the fault is and in which production step it was introduced! 
+
+By leveraging the unique and complementary expertise of QuantaMap and Orange Quantum Systems, the project aims to develop a common data architecture to combine the performance metrics that Orange Quantum System can measure, with the images of defect locations that QuantaMap can provide. The goal of DeteQT is an integrated platform that empowers quantum chip producers to collect diverse metrology and diagnostic data, to accelerate their development timelines and to enable precise quality tracking – all with API integration to [Quantify](https://quantify-os.org). Ultimately, this comprehensive diagnostic picture is critical to unlock the quantum industry's full potential. 
+
+Read more in our joined interview at [EE Times](https://www.eetimes.eu/testing-times-for-quantum-chips) and stay tuned for updates!
