@@ -1,8 +1,8 @@
 ---
 layout: post
-title: DeteQT kicks off coyp QUACIMI
-description: QuantaMap and Orange Quantum Systems join forces for the DeteQT project to develop a common platform for quantum chip diagnostics. 
-image: assets/images/news/2024-04-30_MIT-DeteQT_kick-off.jpg
+title: MKB Hightech project QUACIMI - QuantaMap and TNO crack micromagnets
+description: The QuantaMap microscope receives an upgrade dedicated to spin qubits. 
+image: assets/images/news/2025-06-01_QUACIMI-header.jpg
 ---
 
 [QuantaMap](https://www.quantamap.eu) and [Orange Quantum Systems](https://orangeqs.com) join forces for the DeteQT project to develop a common platform for quantum chip diagnostics.  
