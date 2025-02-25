@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeteQT kicks off coyp  QUACIMI
+title: DeteQT kicks off coyp QUACIMI
 description: QuantaMap and Orange Quantum Systems join forces for the DeteQT project to develop a common platform for quantum chip diagnostics. 
 image: assets/images/news/2024-04-30_MIT-DeteQT_kick-off.jpg
 ---
