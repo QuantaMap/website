@@ -14,9 +14,6 @@ We currently have the following concrete opening:
 ## Internships
 * two interns to support the mechanical design of our AFM holder or [vibration isolation](/openings/Internship_Mechanical-engineering.pdf){:target="_blank"} with experienced in mechanical engineering, precision engineering or similar (university or HBO),
 * an intern with a background in electrical engineering to develp [cryogenic electronics](/openings/Internship_Electrical-engineering.pdf){:target="_blank"} for our AFM (university or HBO),
-* an intern to help develop our [system control software](/openings/Internship_Software-engineering.pdf){:target="_blank"},
-* an intern developing [data analysis algorithms](/openings/Internship_Data-analysis.pdf){:target="_blank"} for the SQUID-AFM data, 
-* a [business assistant](/openings/Internship_Business-assistant.pdf){:target="_blank"} intern as the right hand of our CEO, helping to organize the business. 
 
 Additionally, we are happy to host interns and BSc/MSc students on a number of other technical and non-technical topics. Just get in touch.
 
