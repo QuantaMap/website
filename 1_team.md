@@ -16,9 +16,9 @@ nav-menu: true
 |:-:|:-:|:-:|:-:|
 | **Luigi Mastrodomenico**<br>Microscope Designer | **Jessalyn DeVine**<br>Application Scientist | **Dalal Benali**<br>Nanofab Engineer | **Vlad Tkachuk**<br>AFM & Electronics Engineer |
 
-| ![Zhongyu	Li](/assets/images/team/Zhongyu-Li.jpg){: width="150" } | ![Hugo Morin](/assets/images/team/Hugo-Morin.jpg){: width="150" } | ![Pien van der Wal](/assets/images/team/Pien-van-der-Wal.jpg){: width="150" } | ![Nick van Nielen](/assets/images/team/Nick-van-Nielen.jpg){: width="150" } |
+| ![Julian van Doorn](/assets/images/team/Julian-van-Doorn.jpg){: width="150" } | ![Hugo Morin](/assets/images/team/Hugo-Morin.jpg){: width="150" } | ![Pien van der Wal](/assets/images/team/Pien-van-der-Wal.jpg){: width="150" } | ![Nick van Nielen](/assets/images/team/Nick-van-Nielen.jpg){: width="150" } |
 |:-:|:-:|:-:|:-:|
-| **Zhongyu Li**<br>Physics Intern | **Hugo Morin**<br>Physics Intern | **Pien van der Wal**<br>AFM Intern | **Nick van Nielen**<br>Software Intern | 
+| **Julian van Doorn**<br>AIT Engineer | **Hugo Morin**<br>Physics Intern | **Pien van der Wal**<br>AFM Intern | **Nick van Nielen**<br>Software Intern | 
 
 | ![Klavs Kalvenieks](/assets/images/team/Klavs-Kalvenieks.jpg){: width="150" } | ![Tom Lijding](/assets/images/team/Tom-Lijding.jpg){: width="150" } |  |  |
 |:-:|:-:|:-:|:-:|
