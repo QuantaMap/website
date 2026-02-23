@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our first paper demonstrates microscope performance!
-description: QuantaMap and Leiden University introduce breakthrough nanoscale imaging to accelerate quantum chip development and materials research. 
+title: QuantaMap receives EIC Accelerator 
+description: This 2.5 MEUR grant plus equity backing by the EIB recognizes us as one of the 61 leading European startups and will boost our tech development and commercialization. 
 image: assets/images/news/2026-02-18_EIC-Accelerator.jpg
 ---
 
