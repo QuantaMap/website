@@ -12,11 +12,11 @@ nav-menu: true
 ## Internships
 We currently have the following concrete internship projects available:
 
-* [Mechanical engineering project to develop a automated sample exchange system operating at cryogenic conditions](/openings/Internship_Mechanical-engineering.pdf){:target="_blank"} (university or HBO);
-* [Database project to design and implement a scalable database system for our scan data](/openings/Internship_Database-engineering.pdf){:target="_blank"} (university or HBO);
-* [IT project to develop a scalable IT infrastructure for our company](/openings/Internship_IT-engineering.pdf){:target="_blank"} (university or HBO);
-* [Research project on scalability of AFM-SOT probe fabrication](/openings/Internship_Nanofab.pdf){:target="_blank"} (university or HBO);
-* [hands-on project to improve the UI/UX of our measurement and analysis software](/openings/Internship_UI.pdf){:target="_blank"} (university or HBO);
+* [Mechanical engineering project to develop a automated sample exchange system operating at cryogenic conditions](/openings/2026-03-09_Internship_Mechanical-engineering.pdf){:target="_blank"} (university or HBO);
+* [Database project to design and implement a scalable database system for our scan data](/openings/2026-03-17_Internship_Database.pdf){:target="_blank"} (university or HBO);
+* [IT project to develop a scalable IT infrastructure for our company](/openings/2026-03-17_Internship_ICT.pdf){:target="_blank"} (university or HBO);
+* [Research project on scalability of AFM-SOT probe fabrication](/openings/2026-03-17_Internship_Nanofab.pdf){:target="_blank"} (university or HBO);
+* [hands-on project to improve the UI/UX of our measurement and analysis software](/openings/2026-03-17_Internship_UI.pdf){:target="_blank"} (university or HBO);
 
 Additionally, we are happy to host interns and BSc/MSc students on a number of other technical and non-technical topics. Just get in touch.
 
