@@ -20,7 +20,7 @@ The microscope enables research teams to probe multiple interacting physical phe
 
 This multimodal imaging is performed extremely close to the sample surface using tapping mode feedback allowing for stability during extended measurement campaigns and imaging of realistic, nanostructured devices — including operational quantum chips and exotic quantum materials.
 
-![Multimodal SQUID-AFM imaging of key chip properties](assets/images/news/2026-02-12-SQUID-AFM-paper-NanoLetters_AFM.jpg)
+![Multimodal SQUID-AFM imaging of key chip properties](/assets/images/news/2026-02-12-SQUID-AFM-paper-NanoLetters_AFM.jpg)
 
 ## Why this matters for the quantum industry
 > “Current chip testing relies mainly on electrical characterization of fully finished chips inside quantum computers – a process that takes weeks per chip and if the performance of some qubits is reduced, it cannot reveal the underlying reason,” says Johannes Jobst, founder and CEO of QuantaMap.
@@ -34,6 +34,12 @@ QuantaMap is now working to bring these microscope systems to the market for qua
 
 Get in touch if you want to understand your quantum devices and chips!
 
-![QuantaMap microscope system](assets/images/news/2026-02-12-SQUID-AFM-paper-NanoLetters_system.jpg)
+![QuantaMap microscope system](/assets/images/news/2026-02-12-SQUID-AFM-paper-NanoLetters_system.jpg)
 
-
+### Press coverage
+* [The Quantum Insider](https://thequantuminsider.com/2026/02/12/quantamap-and-leiden-university-introduce-nanoscale-imaging-for-quantum-chip-development-and-materials-research/)
+* [Quantum Zeitgeist](https://quantumzeitgeist.com/quantamap-quantum-materials-quantum-research/)
+* [Mirage News](https://www.miragenews.com/quantum-microscope-unveils-quantum-material-1618620/)
+* [Quantum Computing Report](https://quantumcomputingreport.com/leiden-university-and-quantamap-introduce-multi-modal-quantum-microscope/)
+* [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=11051)
+* [Phys.org](https://phys.org/news/2026-02-microscope-quantum-age-nanoscale-scan.html)
