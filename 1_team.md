@@ -16,13 +16,13 @@ nav-menu: true
 |:-:|:-:|:-:|:-:|
 | **Luigi Mastrodomenico**<br>Microscope Designer | **Jessalyn DeVine**<br>Application Scientist | **Dalal Benali**<br>Nanofab Engineer | **Vlad Tkachuk**<br>AFM & Electronics Engineer |
 
-| ![Julian van Doorn](/assets/images/team/Julian-van-Doorn.jpg){: width="150" } | ![Hugo Morin](/assets/images/team/Hugo-Morin.jpg){: width="150" } | ![Pien van der Wal](/assets/images/team/Pien-van-der-Wal.jpg){: width="150" } | ![Nick van Nielen](/assets/images/team/Nick-van-Nielen.jpg){: width="150" } |
+| ![Julian van Doorn](/assets/images/team/Julian-van-Doorn.jpg){: width="150" } | ![Nick van Nielen](/assets/images/team/Nick-van-Nielen.jpg){: width="150" } | ![Elena Garcia Cancela](/assets/images/team/Elena-Garcia-Cancela.jpg){: width="150" } | ![Elora McFall](/assets/images/team/QM1.jpg){: width="150" } |
 |:-:|:-:|:-:|:-:|
-| **Julian van Doorn**<br>AIT Engineer | **Hugo Morin**<br>Physics Intern | **Pien van der Wal**<br>AFM Intern | **Nick van Nielen**<br>Software Intern | 
+| **Julian van Doorn**<br>AIT Engineer | **Nick van Nielen**<br>Software Engineer | **Elena Garcia Cancela**<br>Project Manager | **Elora McFall**<br>Founders Associate | 
 
-| ![Klavs Kalvenieks](/assets/images/team/Klavs-Kalvenieks.jpg){: width="150" } | ![Tom Lijding](/assets/images/team/Tom-Lijding.jpg){: width="150" } |  |  |
+| ![Pierre-Louis Nuss](/assets/images/team/QM2.jpg){: width="150" } | ![Jerzy Wierzbicki](/assets/images/team/QM3.jpg){: width="150" } |  |  |
 |:-:|:-:|:-:|:-:|
-| **Klavs Kalvenieks**<br>Business Intern | **Tom Lijding**<br>Control Intern |  |  | 
+| **Pierre-Louis Nuss**<br>Intern | **Jerzy Wierzbicki**<br>Nanofab Intern |  |  | 
 
 Our team is motivated to solve hard problems that do not have solutions yet. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are a team of eight nationalities and are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
