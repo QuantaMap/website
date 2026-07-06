@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QORRELATIONS project starts: Scalable Test and Measurement for Superconducting Quantum Chips  
+title: "QORRELATIONS project starts: Scalable Test and Measurement for Superconducting Quantum Chips"
 description: This 2.5 MEUR grant plus equity backing by the EIB recognizes us as one of the 61 leading European startups and will boost our tech development and commercialization. 
 image: assets/images/news/2026-05-01-Kansen-voor-West_QORRELATIONS.jpg
 ---
