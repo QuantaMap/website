@@ -10,7 +10,7 @@ nav-menu: true
 # Open positions
 
 ## Internships
-We currently have the following concrete internship projects available:
+We currently have the following concrete internship projects available: 
 
 * [Mechanical engineering project to develop a automated sample exchange system operating at cryogenic conditions](/openings/2026-03-09_Internship_Mechanical-engineering.pdf){:target="_blank"} (university or HBO);
 * [Database project to design and implement a scalable database system for our scan data](/openings/2026-03-17_Internship_Database.pdf){:target="_blank"} (university or HBO);
