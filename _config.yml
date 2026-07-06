@@ -1,11 +1,11 @@
 # site settings
 title: QuantaMap
 subtitle: 
-email: info@quantamap.nl
+email: info@quantamap.eu
 description: We develop new metrology and diagnostic tools for the quantum industry<br />
-baseurl: 
+baseurl:
 #baseurl: "http://jo-quantamap.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://www.quantamap.eu"
 author: Johannes Jobst
 street_address: Robert Boyleweg 4
 city: Leiden

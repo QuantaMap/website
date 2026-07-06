@@ -40,7 +40,7 @@ We offer you a challenging position with ample opportunity to grow. You join a g
 You will join a team of four founders and two interns who are extremely motivated to solve hard problems that do not have solutions yet. We believe that our technology will have major impact in the quantum industry and will have applications in different fields in science and emerging technology as well. You will contribute to this revolution and get to work with world-leading experts within a field that is on top of the strategic agendas of the world’s most innovative nations and to collaborate with the world’s leading quantum chip producers. At Quantamap, we are committed to diversity and to creating an open and inclusive environment where everyone can speak up, learn and thrive. We value mentorship, trust, kindness, and ambition.  
 
 ## How to apply
-Please send us your CV and a short message why you want to join QuantaMap to [join-us@quantamap.nl](mailto:join-us@quantamap.nl) and we will come back to you with suggestions for a date of a first interview.
+Please send us your CV and a short message why you want to join QuantaMap to [join-us@quantamap.eu](mailto:join-us@quantamap.eu) and we will come back to you with suggestions for a date of a first interview.
 
-In case you have any questions, don't hesitate to reach out to our CEO, Johannes Jobst ([johannes@quantamap.nl](mailto:johannes@quantamap.nl), +31649588920).
+In case you have any questions, don't hesitate to reach out to our CEO, Johannes Jobst ([johannes@quantamap.eu](mailto:johannes@quantamap.eu), +31649588920).
 
